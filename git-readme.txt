@@ -32,5 +32,15 @@ PS D:\WEB-IT\05 Learning-Drills\React\tests\test-react18-git>
 -------
 
 git reset ab39659273d4118dc34291100bde1bee9e02b1a5
-========================================
+======================================== add local git to github
+--- create a repository in github "my-first-repository"
+--- …or push an existing repository from the command line
+git remote add origin https://github.com/musaMosafer/my-first-repository.git
+git push -u origin master
+
+
+
+
+
+
 
